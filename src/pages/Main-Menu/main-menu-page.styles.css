@@ -1,0 +1,17 @@
+.main-menu {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-alignment {
+    position: fixed;
+    margin-top: 30%;
+}
+
+.h2-alignment {
+    position: fixed;
+    margin-top: 13%;
+    color: white;
+}
